@@ -20,7 +20,7 @@ act in the real world.
 ### Background
 
 - **MSc, University of York** — fine-tuned MusicGen with LoRA on speed-garage drum loops, experimenting with niche UK underground dance-music datasets and open-source music models.
-- **BEng Mechanical Engineering, Newcastle.**
+- **BSc Mechanical Engineering, Newcastle.**
 
 ### Outside the terminal
 
