@@ -10,7 +10,6 @@ The work I care about sits in the layer around the model: orchestration, memory,
 
 - **Defyner, Founding Brand Engineer.** Building and deploying multi-agent systems inside a company's own infrastructure, owned by the brand instead of rented from a vendor. Defyner is a London AI startup working with some of the biggest global brands.
 - **[alignment-faking-inspect](https://github.com/marliechorgan/alignment-faking-inspect)**: an Inspect (AISI) port of the Greenblatt et al. 2024 alignment-faking eval, contributed upstream into AISI's own tooling ([inspect_ai #4311](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4311) and [inspect_evals #1822](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1822), both merged).
-- **[UK AI Jobs Explorer](https://uk-ai-jobs-explorer.vercel.app)**: a live tool scoring 738 UK occupations for AI exposure against real growth projections.
 - **[JustANiceGuy](https://github.com/marliechorgan/JustANiceGuy)**: a JARVIS-style voice-agent layer with async sub-agents (LiveKit WebRTC + Gemini).
 
 ### Background
