@@ -1,15 +1,15 @@
 # Charlie Morgan
 
-**AI Engineer, Jersey → London.**
+**AI deployment engineer, London.**
 
-I build agent harnesses: the orchestration, memory, and observability layers that make multi-agent systems reliable enough to run in high-stakes, real-world work. Deep transformer background (LoRA/QLoRA), heavy on systems engineering, mostly Python with LangGraph, Pydantic, and OpenTelemetry.
+I find the problem worth solving inside a business, build the AI system for it, deploy it into their real environment and make it reliable enough to hand real work. Deep transformer background (LoRA/QLoRA), heavy on systems engineering, mostly Python with LangGraph, Pydantic, and OpenTelemetry.
 
 The work I care about sits in the layer around the model: orchestration, memory, the human-review interface, and the observability that makes an agent safe to hand real work.
 
 ### What I'm building now
 
 - **Defyner, Founding Brand Engineer.** Building and deploying multi-agent systems inside a company's own infrastructure, owned by the brand instead of rented from a vendor. Defyner is a London AI startup working with some of the biggest global brands.
-- **[alignment-faking-inspect](https://github.com/marliechorgan/alignment-faking-inspect)**: an Inspect (AISI) port of the Greenblatt et al. 2024 alignment-faking eval, contributed upstream into AISI's own tooling ([inspect_ai #4311](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4311) and [inspect_evals #1822](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1822), both merged).
+- **[alignment-faking-inspect](https://github.com/marliechorgan/alignment-faking-inspect)**: an Inspect port of the Greenblatt et al. 2024 alignment-faking eval, listed in inspect_evals ([#1822](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1822)), plus a scorer fix merged into inspect_ai ([#4311](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4311)).
 - **[JustANiceGuy](https://github.com/marliechorgan/JustANiceGuy)**: a JARVIS-style voice-agent layer with async sub-agents (LiveKit WebRTC + Gemini).
 
 ### Background
