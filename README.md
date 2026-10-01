@@ -1,29 +1,22 @@
 # Charlie Morgan
 
-**AI deployment engineer, London.**
+**AI deployment engineer, London.** I find the problem worth solving inside a business, build the AI system for it, deploy it into their real environment and make it reliable enough to hand real work.
 
-I find the problem worth solving inside a business, build the AI system for it, deploy it into their real environment and make it reliable enough to hand real work. Deep transformer background (LoRA/QLoRA), heavy on systems engineering, mostly Python with LangGraph, Pydantic, and OpenTelemetry.
+### Now
 
-The work I care about sits in the layer around the model: orchestration, memory, the human-review interface, and the observability that makes an agent safe to hand real work.
+- **Defyner**, Founding Brand Engineer: multi-agent systems built and deployed inside clients' own infrastructure, for clients including some of the biggest global brands.
+- **[claude-setup](https://github.com/marliechorgan/claude-setup)**: the Claude Code skills and safety guards I run on my own agents, with tests and a kit that throws disguised commands at the guards.
+- **AISI open source**: an [alignment-faking eval](https://github.com/marliechorgan/alignment-faking-inspect) in the [inspect_evals register](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1822), and fixes merged into [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4311) and [ControlArena](https://github.com/UKGovernmentBEIS/control-arena/pull/891).
+- **[JustANiceGuy](https://github.com/marliechorgan/JustANiceGuy)**: a voice layer that runs headless Claude Code tasks and talks back.
 
-### What I'm building now
+### Before
 
-- **Defyner, Founding Brand Engineer.** Building and deploying multi-agent systems inside a company's own infrastructure, owned by the brand instead of rented from a vendor. Defyner is a London AI startup working with some of the biggest global brands.
-- **[alignment-faking-inspect](https://github.com/marliechorgan/alignment-faking-inspect)**: an Inspect port of the Greenblatt et al. 2024 alignment-faking eval, listed in inspect_evals ([#1822](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1822)), plus a scorer fix merged into inspect_ai ([#4311](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4311)).
-- **[JustANiceGuy](https://github.com/marliechorgan/JustANiceGuy)**: a JARVIS-style voice-agent layer with async sub-agents (LiveKit WebRTC + Gemini).
+- **Helix Technologies** (acquired by Staynex): led technical development of a multi-agent travel platform.
+- **Best Real-World Solution, Digital Jersey AI Hackathon** (one of three awards across 20 teams): a RAG tool for ADHD care.
+- **UK patent application GB2607064.9** (pending): acoustic monitoring where raw audio never leaves the device.
+- **MSc Audio and Music Technology, York** · **BSc Mechanical Engineering, Newcastle**.
 
-### Background
-
-- **UK Patent GB2607064.9, Acoustic Compliance Intelligence.** A privacy-preserving edge design where raw audio never leaves the device: event classification runs locally, evidence is cryptographically bound to metadata via hardware-attested hash chains, and decryption authority is kept separate from both the edge and the platform operator.
-- **First prize, Digital Jersey AI Hackathon** for a RAG tool that helps clinicians assess ADHD care.
-- Before Defyner, built multi-agent and context-engineering systems at **Helix Technologies** (mostly travel).
-- **MSc, University of York**: fine-tuned MusicGen with LoRA on speed-garage drum loops. **BSc Mechanical Engineering, Newcastle** before that.
-
-### Outside the terminal
-
-DJ and producer (Toasted), founder of **DRUMGL**. My tracks have had support on BBC Radio 1 and been played out at Glastonbury and Boiler Room, alongside UK residencies and festival slots across Europe.
-
----
+Also a DJ and producer (Toasted) and founder of the label DRUMGL, with tracks played on BBC Radio 1 and at Glastonbury and Boiler Room.
 
 My goal is to help Jersey and the UK lead as the agentic economy arrives. Open to conversations about multi-agent systems, agent harness design, and AI deployment in high-stakes domains.
 
